@@ -1,0 +1,6 @@
+Movie Title : The Avengers
+Duration : 2 Hours
+Buyer Username : drick
+Price Per Unit : RM16
+Total : RM48.0
+Date/Time : 2020/08/05 19:58:49
